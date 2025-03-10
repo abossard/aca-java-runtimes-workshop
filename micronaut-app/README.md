@@ -1,19 +1,30 @@
-## Micronaut 3.8.8 Documentation
+## Micronaut 4.7.6 Documentation
 
-- [User Guide](https://docs.micronaut.io/3.8.8/guide/index.html)
-- [API Reference](https://docs.micronaut.io/3.8.8/api/index.html)
-- [Configuration Reference](https://docs.micronaut.io/3.8.8/guide/configurationreference.html)
+- [User Guide](https://docs.micronaut.io/4.7.6/guide/index.html)
+- [API Reference](https://docs.micronaut.io/4.7.6/api/index.html)
+- [Configuration Reference](https://docs.micronaut.io/4.7.6/guide/configurationreference.html)
 - [Micronaut Guides](https://guides.micronaut.io/index.html)
 ---
 
-## Feature testcontainers documentation
+- [Micronaut Maven Plugin documentation](https://micronaut-projects.github.io/micronaut-maven-plugin/latest/)
+## Feature maven-enforcer-plugin documentation
 
-- [https://www.testcontainers.org/](https://www.testcontainers.org/)
+- [https://maven.apache.org/enforcer/maven-enforcer-plugin/](https://maven.apache.org/enforcer/maven-enforcer-plugin/)
 
 
-## Feature http-client documentation
+## Feature micronaut-aot documentation
 
-- [Micronaut HTTP Client documentation](https://docs.micronaut.io/latest/guide/index.html#httpClient)
+- [Micronaut AOT documentation](https://micronaut-projects.github.io/micronaut-aot/latest/guide/)
+
+
+## Feature serialization-jackson documentation
+
+- [Micronaut Serialization Jackson Core documentation](https://micronaut-projects.github.io/micronaut-serialization/latest/guide/)
+
+
+## Feature jdbc-hikari documentation
+
+- [Micronaut Hikari JDBC Connection Pool documentation](https://micronaut-projects.github.io/micronaut-sql/latest/guide/index.html#jdbc)
 
 
 ## Feature micronaut-test-rest-assured documentation
@@ -23,8 +34,8 @@
 - [https://rest-assured.io/#docs](https://rest-assured.io/#docs)
 
 
-## Feature jdbc-hikari documentation
+## Feature testcontainers documentation
 
-- [Micronaut Hikari JDBC Connection Pool documentation](https://micronaut-projects.github.io/micronaut-sql/latest/guide/index.html#jdbc)
+- [https://www.testcontainers.org/](https://www.testcontainers.org/)
 
 
